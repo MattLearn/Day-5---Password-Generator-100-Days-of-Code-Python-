@@ -1,5 +1,4 @@
-# Python Starter
+# Day 5 - Password Generator
 
-Quickly get started with [Python](https://www.python.org/) using this starter! 
-
-- If you want to upgrade Python, you can change the image in the [Dockerfile](./.codesandbox/Dockerfile).
+Create a password generator using the provided lists
+-Easy: There is no randomization between 
